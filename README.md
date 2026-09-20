@@ -1,4 +1,4 @@
-# Bank Loan Data Analysis — Excel
+# Bank Loan Data Analysis | Excel
 
 An interactive Excel dashboard analyzing loan application, funding, and repayment data to evaluate loan portfolio risk and performance.
 
